@@ -15,3 +15,4 @@ class Car {
 
 const car = new Car('Toyota', 100);
 console.log(car.accelerate()); // After fixing: will print 120
+
